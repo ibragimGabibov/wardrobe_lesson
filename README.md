@@ -1,16 +1,3 @@
-# wardrobe_project
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Wardrobe project 
+Lesson, 12 February, 2024
+![Снимок](https://github.com/ibragimGabibov/wardrobe_lesson/assets/159956914/d0fb36ca-ab42-4b2d-8bc3-67ffbd291795)
